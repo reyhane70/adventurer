@@ -1,6 +1,6 @@
 # adventurer
 # Node
-node_modules/
+node_modules
 dist/
 .env
 npm-debug.log
